@@ -7,7 +7,7 @@ Served by GitHub Pages at `https://id.chrisheuer.com`:
 - `/.well-known/aauth-agent.json`: agent provider metadata
 - `/.well-known/jwks.json`: the public key that signs agent tokens
 
-Identifiers like `aauth:bob@id.chrisheuer.com` name software agents, not people.
+Identifiers like `aauth:<name>@id.chrisheuer.com` name software agents, not people.
 
 ## Security
 
