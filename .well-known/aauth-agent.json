@@ -1,0 +1,8 @@
+{
+  "issuer": "https://id.chrisheuer.com",
+  "jwks_uri": "https://id.chrisheuer.com/.well-known/jwks.json",
+  "client_name": "Chris Heuer's AI agents",
+  "name": "Chris Heuer's AI agents",
+  "description": "Agent provider for AI agents that act for Chris Heuer (AIOS). These identifiers name software agents, not people.",
+  "logo_uri": "https://avatars.githubusercontent.com/chrisheuer"
+}
